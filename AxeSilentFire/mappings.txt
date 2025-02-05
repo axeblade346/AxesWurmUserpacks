@@ -1,0 +1,3 @@
+sound.ambient.fire1        = silent.ogg
+sound.ambient.fire2        = silent.ogg
+sound.ambient.fire3        = silent.ogg

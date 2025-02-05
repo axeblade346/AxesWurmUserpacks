@@ -1,0 +1,4 @@
+sound.magicTurret.idle1 		= silent.ogg
+sound.magicTurret.idle2 		= silent.ogg
+sound.magicTurret.idle3 		= silent.ogg
+sound.magicTurret.attack 		= silent.ogg
